@@ -8,12 +8,12 @@
 -- $ psql -U postgres -h localhost
 -- Password for user postgres :
 
--- if the password is valid, you receive the following message.
--- psql (10.16)
+-- psql (15.6)
 -- WARNING: Console code page (437) differs from Windows code page (1252)
 --         8-bit characters might not work correctly. See psql reference
 --         page "Notes for Windows users" for details.
 -- Type "help" for help.
+
 -- postgres=#
 --
 
@@ -24,7 +24,7 @@
 
 /*
 $ psql --version
-psql (PostgreSQL) 10.16
+psql (PostgreSQL) 15.6
 %
 
 
