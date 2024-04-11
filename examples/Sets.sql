@@ -98,7 +98,7 @@ select cName as csName from College
 order by csName;
 
 -- ------------------------------------------------------------------------
-\echo "*** set intersection: names of students OR colleges ***"
+\echo "*** set intersection: names of students AND colleges ***"
 
 \echo "this is not good, the attribute name is misleading"
 
